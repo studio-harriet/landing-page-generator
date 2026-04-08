@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 # .env 파일 로드
 load_dotenv()
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_API_KEY = os.getenv("AIzaSyAzmX6XsMZ5Dns5uy46n3G7sa-UxrLPsKs")
 
 # Gemini 3 Pro Image Preview 모델 (Nano Banana Pro)
 MODEL_NAME = "gemini-3-pro-image-preview"
